@@ -1,4 +1,4 @@
-## CaptureScreen
+## Background introduction
 
 Using OS X, we can capture the screen by pressing "Command+Shift+3".
 
