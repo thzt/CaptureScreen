@@ -1,0 +1,17 @@
+c:\users\lvlf\documents\visual studio 2012\Projects\CaptureScreen\CaptureScreen\bin\Debug\CaptureScreen.exe.config
+c:\users\lvlf\documents\visual studio 2012\Projects\CaptureScreen\CaptureScreen\bin\Debug\CaptureScreen.exe
+c:\users\lvlf\documents\visual studio 2012\Projects\CaptureScreen\CaptureScreen\bin\Debug\CaptureScreen.pdb
+c:\users\lvlf\documents\visual studio 2012\Projects\CaptureScreen\CaptureScreen\obj\Debug\CaptureScreen.csprojResolveAssemblyReference.cache
+c:\users\lvlf\documents\visual studio 2012\Projects\CaptureScreen\CaptureScreen\obj\Debug\CaptureScreen.Form1.resources
+c:\users\lvlf\documents\visual studio 2012\Projects\CaptureScreen\CaptureScreen\obj\Debug\CaptureScreen.Properties.Resources.resources
+c:\users\lvlf\documents\visual studio 2012\Projects\CaptureScreen\CaptureScreen\obj\Debug\CaptureScreen.csproj.GenerateResource.Cache
+c:\users\lvlf\documents\visual studio 2012\Projects\CaptureScreen\CaptureScreen\obj\Debug\CaptureScreen.exe
+c:\users\lvlf\documents\visual studio 2012\Projects\CaptureScreen\CaptureScreen\obj\Debug\CaptureScreen.pdb
+E:\svn\CaptureScreen\trunk\CaptureScreen\CaptureScreen\bin\Debug\CaptureScreen.exe.config
+E:\svn\CaptureScreen\trunk\CaptureScreen\CaptureScreen\bin\Debug\CaptureScreen.exe
+E:\svn\CaptureScreen\trunk\CaptureScreen\CaptureScreen\bin\Debug\CaptureScreen.pdb
+E:\svn\CaptureScreen\trunk\CaptureScreen\CaptureScreen\obj\Debug\CaptureScreen.Form1.resources
+E:\svn\CaptureScreen\trunk\CaptureScreen\CaptureScreen\obj\Debug\CaptureScreen.Properties.Resources.resources
+E:\svn\CaptureScreen\trunk\CaptureScreen\CaptureScreen\obj\Debug\CaptureScreen.csproj.GenerateResource.Cache
+E:\svn\CaptureScreen\trunk\CaptureScreen\CaptureScreen\obj\Debug\CaptureScreen.exe
+E:\svn\CaptureScreen\trunk\CaptureScreen\CaptureScreen\obj\Debug\CaptureScreen.pdb
