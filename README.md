@@ -1,10 +1,10 @@
 ## CaptureScreen
 
-Using OS X, we can capture screen by press "Command+Shift+3".
+Using OS X, we can capture the screen by pressing "Command+Shift+3".
 
 OS X will capture the current screen and save to a picture on the desktop.
 
-However, Win7 can't do such simple thing.
+However, Win7 can't solve this problem simply. (no hot key ...
 
 So, I create a winform application for this use case.
 
